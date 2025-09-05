@@ -60,5 +60,3 @@ The option flag `--dry-run` can be added to the above command to show files that
 pipenv run main.py -f <path_to_data_file> --dry-run
 ```
 
-## Licence
-Licensed under the MIT licence. I accept no responsibility for any damage or loss to data when using this script. Ensure you understand what this script does before running it and follow best practices when using it with important data, such as testing it thoroughly before use.
